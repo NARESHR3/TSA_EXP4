@@ -116,36 +116,37 @@ plt.legend()
 plt.show()
 ```
 OUTPUT:
-Original data:
+## Original data:
 <img width="1079" height="543" alt="image" src="https://github.com/user-attachments/assets/66c5732e-10aa-4c32-a6e5-1c54314d8add" />
-Autocorrelation:
+## Autocorrelation:
 <img width="1081" height="225" alt="image" src="https://github.com/user-attachments/assets/99596b2f-cc73-4425-a67d-c1d3f12d4960" />
 
 
-Partial Autocorrelation
+## Partial Autocorrelation
 <img width="1079" height="260" alt="image" src="https://github.com/user-attachments/assets/992a3719-8595-431b-90f6-2dc8a88504bd" />
 
-SIMULATED ARMA(1,1) PROCESS:
+## SIMULATED ARMA(1,1) PROCESS:
 <img width="588" height="427" alt="image" src="https://github.com/user-attachments/assets/3a6c54aa-2138-43d2-b776-379925f2f597" />
 
-Autocorrelation:
+## Autocorrelation:
 <img width="600" height="439" alt="image" src="https://github.com/user-attachments/assets/b17f31b1-bab1-4e07-94a1-83237e1ff1c9" />
 
-Partial Autocorrelation:
+## Partial Autocorrelation:
 <img width="692" height="439" alt="image" src="https://github.com/user-attachments/assets/cba8f4a7-eba2-40f9-bee8-accbda4c2671" />
 
-SIMULATED ARMA(2,2) PROCESS:
+## SIMULATED ARMA(2,2) PROCESS:
 <img width="663" height="437" alt="image" src="https://github.com/user-attachments/assets/3f27dd5a-3330-49c8-b521-aa4146defcda" />
 
 
 
-Partial Autocorrelation
+## Autocorrelation
+<img width="654" height="435" alt="image" src="https://github.com/user-attachments/assets/59a6530a-f6bb-4de3-986f-9d650acc0641" />
+
+## Partial Autocorrelation
 <img width="636" height="426" alt="image" src="https://github.com/user-attachments/assets/7718dc45-a6e7-44bd-ad1c-c8c07516ed5c" />
 
 
 
-Autocorrelation
-<img width="654" height="435" alt="image" src="https://github.com/user-attachments/assets/59a6530a-f6bb-4de3-986f-9d650acc0641" />
 
 
 RESULT:
