@@ -149,5 +149,5 @@ OUTPUT:
 
 
 
-RESULT:
+## RESULT:
 Thus, a python program is created to fir ARMA Model successfully.
